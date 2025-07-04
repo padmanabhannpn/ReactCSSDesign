@@ -28,7 +28,7 @@ function App() {
 
  </div> */}
 
- <div className="min-h-screen bg-red-100 p-6">
+ <div className="min-h-screen bg-[#2A7A5A] p-6">
       <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-md p-6">
         <h1 className="text-3xl font-bold italic text-center mb-4 text-blue-600">
           Responsive Tailwind Card
